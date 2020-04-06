@@ -13,6 +13,7 @@
         "node-red-node-openwhisk": "0.x",
         "node-red-node-watson": "0.x",
         "node-red-nodes-cf-sqldb-dashdb": "0.x"
+        "npm install node-red-contrib-scx-ibmiotapp"
     },
     "scripts": {
         "start": "node --max-old-space-size=160 index.js --settings ./bluemix-settings.js -v"
